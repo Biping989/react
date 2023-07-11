@@ -1,0 +1,10 @@
+:root{
+    --black:#232f33;
+    --size:40px;
+    --white:#ffff;
+}
+.title{
+    background-color: var(--black);
+    font-size: var(--size);
+    color:var(--white);
+}
